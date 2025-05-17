@@ -1,7 +1,7 @@
 ![Node](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white) ![dbeaver](https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white) ![wasp](https://img.shields.io/badge/Warp-01A4FF.svg?style=for-the-badge&logo=Warp&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white) ![gitkraken](https://img.shields.io/badge/GitKraken-179287.svg?style=for-the-badge&logo=GitKraken&logoColor=white) ![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
 ## INSTALAÇÃO IDE DO VSCODE
-Para instalação do VSCode acesse o site [Visual Studio Code](https://code.visualstudio.com/docs), para facilitar o andamento do projeto é possível instalar no VS Code algumas extenções como: 
+Para instalação do VSCode acesse o site [Visual Studio Code](https://code.visualstudio.com/docs), para facilitar o andamento do projeto é possível instalar no VS Code algumas extensões como: 
 - Auto Close Tag;
 - Auto Complete Tag;
 - Auto Rename Tag;
@@ -22,7 +22,7 @@ O Insomnia REST Client é uma ferramenta popular para testar e desenvolver APIs,
 Para instalação do NodeJS acesse [Documentação NodeJS](https://nodejs.org/pt/download).
 
 ## CONEXÃO MYSQL
-Passos de como estabelecer a conexão com o banco de dados MySQL. Para instalação do MySQL acesse [Documentação MySQL](https://dev.mysql.com/doc/). Caso esteja utilizando o Windows é nescessário defini a variável do ambiente:
+Passos de como estabelecer a conexão com o banco de dados MySQL. Para instalação do MySQL acesse [Documentação MySQL](https://dev.mysql.com/doc/). Caso esteja utilizando o Windows é nescessário definir a variável do ambiente:
 1. Copie o caminho da pasta `.\MySQL Server 8.0\bin`, exemplo:
 `C:\Program Files\MySQL\MySQL Server 8.0\bin`
 2. Acesse no Windows as Variáveis do Ambiente.
@@ -61,7 +61,7 @@ SHOW TABLES;
 3. Acesse pelo navegador o projeto localmente `localhost:3333`
 
 ## PROJETO NO GITHUB
-Projeto rodando em localhost no repositório [site-tcc-localhost](https://github.com/ViniciusDadalte/site-tcc-localhost) no GitHub do desenvolvedor [Vinícius Gabriel](https://github.com/ViniciusDadalte). Caso não tenha o Git instalado veja na [Documentação do Git]() como instalar na sua máquina, caso queira usar uma CLI dica é [GitKraken](), [Tortoise Git](https://tortoisegit.org/) ou utilizar as extensões do VS Code. 
+Projeto rodando em localhost no repositório [site-tcc-localhost](https://github.com/ViniciusDadalte/site-tcc-localhost) no GitHub do desenvolvedor [Evandro Orso](https://github.com/EvandroOrso). Caso não tenha o Git instalado veja na [Documentação do Git]() como instalar na sua máquina, caso queira usar uma CLI dica é [GitKraken](), [Tortoise Git](https://tortoisegit.org/) ou utilizar as extensões do VS Code. 
 Dúvidas sobre comandos Git acesse [Lista de comandos úteis do Git](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 
 ### Inserindo usuário e senha do Github:
@@ -201,7 +201,7 @@ Log com diff colorido (alterações em cada commit):
 ### Criar Gitignore
 Dentro do repositório podemos criar um arquivo chamado `.gitignore` onde iremos inserir a extensão dos arquivos a serem ignorados.
 1. Criar arquivo na raíz do projeto com nome `.gitignore`.
-2. Inserir aa extensão do que deve ser ignorado ao enviar repositório para o GitHub:
+2. Inserir a extensão do que deve ser ignorado ao enviar repositório para o GitHub:
 ```
 # Arquivos de configuração local
 # .env
@@ -227,7 +227,7 @@ Repositórios com o projeto em andamento:
 
 | **Nome** | **Repositório** |
 |:---:|:---:|
-| Vinícius Gabriel | [![colega-nome](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ViniciusDadalte/site-tcc-localhost) |
 | Evandro Orso| [![colega-nome](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/EvandroOrso) |
+| Vinícius Gabriel | [![colega-nome](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ViniciusDadalte/site-tcc-localhost) |
 
-A lista de todos os colaborados estão no arquivo [CONTRIBUTING.md](.\CONTRIBUTING.md`).
+A lista de todos os colaboradores estão no arquivo [CONTRIBUTING.md](.\CONTRIBUTING.md`).
