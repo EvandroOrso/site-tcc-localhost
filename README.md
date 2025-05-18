@@ -91,7 +91,7 @@ Dúvidas sobre comandos Git acesse [Lista de comandos úteis do Git](https://gis
 5. Definir a branch master:
 `git branch -M master`
 6. Adiciona no repositório remoto:
-`git remote add origin https://github.com/mayannaoliveira/Nome-Repositório.git`
+`git remote add origin https://github.com/EvandroOrso/Nome-Repositório.git`
 7. O primeiro envio do repositório deve ser feito na branch main:
 `git push -u origin main`
 	
